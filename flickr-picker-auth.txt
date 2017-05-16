@@ -1,0 +1,10 @@
+Flickr-picker
+
+Key:
+6a6ba21f469a12094854e28c61323b5e
+
+Secret:
+279e71b7e538a29c
+
+Edit app details - Edit auth flow for this app - View all Apps by You
+
